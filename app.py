@@ -1,5 +1,5 @@
 import time
-import sys
+import os
 
 import redis
 from flask import Flask
